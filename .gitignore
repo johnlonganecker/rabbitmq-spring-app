@@ -1,0 +1,15 @@
+*.class
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+dependency-reduced-pom.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
